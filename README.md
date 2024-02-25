@@ -2,7 +2,7 @@
 <h3 align="center">A ECE student & Eager to contribute and expand technical skills in data-driven projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=github-sanket07sett&label=Profile%20views&color=0e75b6&style=flat" alt="github-sanket07sett" /> </p>
-<img align="right" src="C:\Users\sanke\Downloads\main-qimg-f7bd9b22a6498ac301790de1e23d3d50-pjlq.jpeg">
+<img  src="C:\Users\sanke\Downloads\main-qimg-f7bd9b22a6498ac301790de1e23d3d50-pjlq.jpeg">
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data Analysis**
