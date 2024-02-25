@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanket Sett</h1>
 <h3 align="center">A ECE student & Eager to contribute and expand technical skills in data-driven projects.</h3>
-<img align="right" "src="https://media.licdn.com/dms/image/C5112AQHhciO4DPFhgA/article-cover_image-shrink_720_1280/0/1529562444115?e=2147483647&v=beta&t=QX6Bc9od1WR28cxdvGfe71vP04b37b7Pv4wX8MxrnU4" width="415" height="500">
+<img align="right" "src="https://media.licdn.com/dms/image/C5112AQHhciO4DPFhgA/article-cover_image-shrink_720_1280/0/1529562444115?e=2147483647&v=beta&t=QX6Bc9od1WR28cxdvGfe71vP04b37b7Pv4wX8MxrnU4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=github-sanket07sett&label=Profile%20views&color=0e75b6&style=flat" alt="github-sanket07sett" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
