@@ -1,4 +1,5 @@
-https://github.com/Github-sanket07sett/Github-sanket07sett/assets/137095374/04ae674d-e39b-4fad-8453-3cd852a50f8d
+![SANKET SETT (1)](https://github.com/Github-sanket07sett/Github-sanket07sett/assets/137095374/e0e0e30a-2712-4984-a1b3-9371c95a7f22)
+
 <h1 align="center">Hi 👋, I'm Sanket Sett</h1>
 <h3 align="center">A ECE student & Eager to contribute and expand technical skills in data-driven projects.</h3>
 <img  align="right" width="300" src="https://jokesquotesfactory.com/wp-content/uploads/Talent-without-working-hard-is-nothing.jpg">
